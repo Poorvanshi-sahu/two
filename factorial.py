@@ -12,3 +12,4 @@ def fact2(no,facto):
 facto=[1]
 fact2(5,facto)
 print(facto[0])
+print(fact(5))
